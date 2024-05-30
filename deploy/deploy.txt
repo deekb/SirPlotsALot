@@ -1,0 +1,4 @@
+Files placed in this directory will be deployed to the SD-card into the
+'deploy' directory in the root folder.
+
+TODO: Write a get_deploy_directory function of some sort to get a proper path relative to the deploy directory.
